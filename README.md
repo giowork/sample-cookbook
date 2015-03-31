@@ -2,4 +2,4 @@
 
 Re-creation of clowns/bears from Chef Fundamentals
 
-- Even More Features!
+- Even More and more Features!
